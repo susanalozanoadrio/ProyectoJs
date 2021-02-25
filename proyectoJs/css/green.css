@@ -1,0 +1,30 @@
+body{
+  background-image: url('../img/hojas.jpg');
+  background-attachment: fixed;
+}
+
+#logo{
+  background: #235E3D;
+}
+
+#menu ul li:hover{
+  background: #235E3D;
+}
+
+.button-more{
+  background:#235E3D;
+}
+
+.ui-state-active, .ui-widget-content 
+.ui-state-active, .ui-widget-header 
+.ui-state-active, a.ui-button:active, 
+.ui-button:active, .ui-button.ui-state-active:hover {
+  border: 1px solid #235E3D !important;
+  background: #235E3D !important;
+}
+
+#reloj{
+  color: #235E3D ;
+  border: 5px dashed #235E3D ;
+}
+
